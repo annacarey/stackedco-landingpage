@@ -183,15 +183,16 @@ a {
     }
     #tagline {
         margin-top: 7%;
-        margin-bottom: 10%;
+        margin-bottom: 8%;
         font-size: 30px;
         text-align: left;
         width: 90%;
     }
 
     #contact {
-        margin-top: 20%;
+        margin-top: 15%;
         width: 90%;
+        margin-bottom: 5px;
     }
     #second-half {
         width: 100%;
